@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E303" />
+          <option value="E252" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="todo_list.project" />
+          <option value="project.library.project" />
+          <option value="project.horse_race_app.Appoloosa" />
+          <option value="project.horse_race_app.Thouroughbred" />
+          <option value="project.horse_race_app1.VALID_TYPES" />
+          <option value="booths.open_booth.PRICE_RESERVE" />
+          <option value="booths.private_booth.RESERVE_PRIVATE_BOOTH" />
+          <option value="TestCase" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
